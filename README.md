@@ -1,1 +1,1 @@
-# Poower-Calculator
+# Power-Calculator
